@@ -23,5 +23,3 @@ When joining a new team, developers will be expected to inspect a lot of code th
 
 ## Documentation
 The documentation outlining this project's codebase can be found here: https://bit.ly/37HR4YQ
-
-© Megan Carnaghi, Michigan State University Full-Stack Web Development Bootcamp
